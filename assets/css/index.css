@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  background-color: #DCE0FF;
+}
+
+.content {
+  height: 100%;
+  background-color: #DCE0FF;
+  
+}
+.active {
+	background-color: #084978;
+}
+.bg-hex {
+	background-color: #084978;
+}
+.container {
+	padding: 5%;
+}
+.centered {
+	text-align: center;
+}
