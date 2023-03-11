@@ -1,2 +1,4 @@
-# gamespacedatabase
-a game database with news about new updates of games and modded , games database freely avaleble on the internet.
+<div align="center">
+  <h1><a href="https://gamingoninsulin.github.io/gamespacedatabase">Website</a></h1>
+  <p> A shortcut link to the website "GameSpaceDatabase"</p>
+</div>
